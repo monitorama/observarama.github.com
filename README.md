@@ -1,1 +1,1 @@
-# observarama.github.com
+# observarama.com
